@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("hello, Open Source Programming!\n");
+	printf("Hello World!\n");
 	return 0;
 }
